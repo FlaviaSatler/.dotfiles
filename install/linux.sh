@@ -73,4 +73,4 @@ sudo apt-get install zsh
 chsh -s /bin/zsh
 cp .zshrc ~/.zshrc
 
-sh ./adds.sh.sh
+sh ./adds.sh
